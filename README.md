@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodranaweera&label=Profile%20views&color=0e75b6&style=flat" alt="chamodranaweera" /> </p>
 
+### My topic
+
+---
 - 🔭 I’m currently studying in **Trincomalee Campus EUSL**
 
 - 🌱 I’m currently learning **C++,CSS,HTML**
